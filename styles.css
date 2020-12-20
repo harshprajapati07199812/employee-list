@@ -1,0 +1,28 @@
+.cards img{
+    width: auto;
+    height: 145px;
+    border-radius: 70px;
+    text-align: center;
+    
+}
+.cards{
+    
+     width: 220px;
+     margin: 20px 16px;
+     text-align: center;
+    height: 285px;
+    float: right;
+    
+    border-radius: 30px ;
+    font-family: montserrat, sans-serif;
+    font-size: 19px;
+}
+.cards :hover{
+    background-color: black;
+    color: #ffe448;
+    border-radius:30px ;
+    border: 2px solid black;
+
+}
+
+
